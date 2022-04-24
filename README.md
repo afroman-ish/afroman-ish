@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afroman-ish
+- 👋 Hi, I’m @ebenH
 - 👀 I’m interested in working with young people to empower the underserved communities.
 - 🌱 I’m currently learning how to manage and sustain open-source projects
 - 💞️ I’m looking to collaborate on any opportunities that bring emerging technologies to small, underserved communities
